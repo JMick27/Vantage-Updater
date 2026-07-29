@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.2",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.2/Vantage-Setup.exe",
-                   "sha256":  "0156df5a8207f93c702ef0eb9bde41106f74802df60039cede83aa41a8f3d4ae",
-                   "notes":  "Hotfixes intermittent startup crashes, freezes, and libraries not loading after Continue offline by serializing pywebview native bridge calls while retaining Python-side concurrent scanning."
+                   "version":  "0.2.3",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.3/Vantage-Setup.exe",
+                   "sha256":  "d92a25c0afb6b0cddc4922e3ec6278b098695f09765b3b76e30bbeea9b532ce",
+                   "notes":  "Fixes startup when update checks time out. Update networking no longer blocks the native bridge, Continue offline immediately unlocks game scanning, and headset detection starts independently."
                }
 }
