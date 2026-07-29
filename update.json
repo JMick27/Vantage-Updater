@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "channelState": "active",
   "latest": {
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.1/Vantage-Setup.exe",
-    "sha256": "7915abf3a915929428bc5615addc7fd4f6863ebd001dc73e169c512cb8ed65f3",
-    "notes": "Adds the Vantage app icon, per-user installation, and automatic shortcut repair."
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.2/Vantage-Setup.exe",
+    "sha256": "d1cdc8fd303ce93771371d1a768d0f783bdffe4ae5eb972d1209dee0ba0194b4",
+    "notes": "Adds the hosted Vantage AI backend, encrypted shared Gemini access, automatic free-model fallback, privacy-limited requests, and abuse safeguards."
   }
 }
