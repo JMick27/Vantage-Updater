@@ -1,5 +1,10 @@
 {
   "schemaVersion": 1,
-  "channelState": "bootstrap",
-  "latest": null
+  "channelState": "active",
+  "latest": {
+    "version": "0.1.1",
+    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.1/Vantage-Setup.exe",
+    "sha256": "7915abf3a915929428bc5615addc7fd4f6863ebd001dc73e169c512cb8ed65f3",
+    "notes": "Adds the Vantage app icon, per-user installation, and automatic shortcut repair."
+  }
 }
