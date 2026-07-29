@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.0",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.0/Vantage-Setup.exe",
-                   "sha256":  "d84f26f3f5c9d5ed22ee055d4469f43a02960ac3464a069920294f8341440d04",
-                   "notes":  "Begins real profile generation and feedback: creates an immutable initial UEVR config revision, prepares it without overwriting existing profiles, adds game-specific headset feedback chat, and makes VR hands plus point-and-click menus explicit validation requirements."
+                   "version":  "0.2.1",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.1/Vantage-Setup.exe",
+                   "sha256":  "8bc921a493f630e58f039d76bd89fa89ed9bb240d449e570622300350f000588",
+                   "notes":  "Adds .NET 6 prerequisite detection and an official Microsoft SDK link to Components, plus a non-blocking setup reminder on first launch and whenever Vantage introduces a new component requirement."
                }
 }
