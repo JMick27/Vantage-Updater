@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "channelState": "active",
   "latest": {
-    "version": "0.1.6",
-    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.6/Vantage-Setup.exe",
-    "sha256": "232a646dd4cd038d9f2c5fae9f20043e6e58ae694001fff4f4cbd97b218085e9",
-    "notes": "Makes Continue offline immediately available and adds real UEVR config.txt capture, path sanitization, checksums, payload-gated headset validation, and local review bundles."
+    "version": "0.1.7",
+    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.7/Vantage-Setup.exe",
+    "sha256": "6923a3f4f6bb7d455d566f97630f232f74e1937ad4429bab23919f875cc491a6",
+    "notes": "Adds repository-compatible pending-review profile bundles, offline/single-player test confirmation, public profile versioning, and a maintainer-only draft pull-request submission bridge."
   }
 }
