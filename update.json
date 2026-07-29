@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.3",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.3/Vantage-Setup.exe",
-                   "sha256":  "d92a25c0afb6b0cddc4922e3ec6278b098695f09765b3b76e30bbeea9b532ce",
-                   "notes":  "Fixes startup when update checks time out. Update networking no longer blocks the native bridge, Continue offline immediately unlocks game scanning, and headset detection starts independently."
+                   "version":  "0.2.4",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.4/Vantage-Setup.exe",
+                   "sha256":  "094830e5585f8ca8c66cd9c9e6634d64025b2b190c402e83fe376f1d2b740523",
+                   "notes":  "Restores library access by scanning games independently of update checks. Update discovery prefers the Vantage backend with a bounded GitHub fallback and can no longer block offline use."
                }
 }
