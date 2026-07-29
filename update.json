@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
-  "channelState": "active",
-  "latest": {
-    "version": "0.1.7",
-    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.7/Vantage-Setup.exe",
-    "sha256": "6923a3f4f6bb7d455d566f97630f232f74e1937ad4429bab23919f875cc491a6",
-    "notes": "Adds repository-compatible pending-review profile bundles, offline/single-player test confirmation, public profile versioning, and a maintainer-only draft pull-request submission bridge."
-  }
+    "schemaVersion":  1,
+    "channelState":  "active",
+    "latest":  {
+                   "version":  "0.1.8",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.8/Vantage-Setup.exe",
+                   "sha256":  "ac6d2913804074da242ee275e2e3d6cf5ab0c9e6074d437f0c36265fb58da497",
+                   "notes":  "Adds Microsoft Defender scan gates for UEVR imports, captured profile configurations, and completed review bundles. Threats, timeouts, scan failures, or unavailable protection now safely block profile advancement."
+               }
 }
