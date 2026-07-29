@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.1.9",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.9/Vantage-Setup.exe",
-                   "sha256":  "dab2bfd1375ccaa79b13b7a5023c96ef471749fc9076c8f3db58c642ed030736",
-                   "notes":  "Adds one-click UEVR auto-injection for Profile Workshop tests. Vantage selects the likely Unreal Shipping executable, arms the user-imported official UEVR injector before launching the game, and removes manual process-selection instructions."
+                   "version":  "0.2.0",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.0/Vantage-Setup.exe",
+                   "sha256":  "d84f26f3f5c9d5ed22ee055d4469f43a02960ac3464a069920294f8341440d04",
+                   "notes":  "Begins real profile generation and feedback: creates an immutable initial UEVR config revision, prepares it without overwriting existing profiles, adds game-specific headset feedback chat, and makes VR hands plus point-and-click menus explicit validation requirements."
                }
 }
