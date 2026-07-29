@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "channelState": "active",
   "latest": {
-    "version": "0.1.2",
-    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.2/Vantage-Setup.exe",
-    "sha256": "d1cdc8fd303ce93771371d1a768d0f783bdffe4ae5eb972d1209dee0ba0194b4",
-    "notes": "Adds the hosted Vantage AI backend, encrypted shared Gemini access, automatic free-model fallback, privacy-limited requests, and abuse safeguards."
+    "version": "0.1.3",
+    "downloadUrl": "https://github.com/JMick27/Vantage-Updater/releases/download/v0.1.3/Vantage-Setup.exe",
+    "sha256": "5b2f3297e4f11a4bc64fc53cca79d250c298007310fb7c1262242c143fec478d",
+    "notes": "Fixes the stuck startup update screen, reports the actual installed version, prevents duplicate checks, and adds a safe Continue offline timeout."
   }
 }
