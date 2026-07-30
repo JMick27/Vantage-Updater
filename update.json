@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.18",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.18/Vantage-Setup.exe",
-                   "sha256":  "501b54d165322b48c787d01d4500a1b564f3e907792aaaebdb6f9aef33cc1e6a",
-                   "notes":  "Fixes incorrect Steam titles and prevents usernames from damaged app manifests appearing as game names. Official Steam titles now replace safe temporary placeholders asynchronously."
+                   "version":  "0.2.19",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.19/Vantage-Setup.exe",
+                   "sha256":  "92e2c34c0a949796920975a47d9c9df9151a77ed78b64139ca3d47ac2bd5a0ae",
+                   "notes":  "Adds GitHub endpoint fallback and a last-verified manifest cache. Library scanning now starts independently, so an update-server timeout cannot leave Vantage empty."
                }
 }
