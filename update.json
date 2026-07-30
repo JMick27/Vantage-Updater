@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.15",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.15/Vantage-Setup.exe",
-                   "sha256":  "9aad0401db1602c796cb8072113015854aa147bdca7fe98901ebfac49345c130",
-                   "notes":  "Adds a slot-aligned physical disc insertion animation before game launch or profile preparation, including loading and reading feedback plus reduced-motion support."
+                   "version":  "0.2.16",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.16/Vantage-Setup.exe",
+                   "sha256":  "20b4bf32f297ca602e2947ef0539f3d102b326a6d120b2089978a52d2daf19c7",
+                   "notes":  "Adds a post-insertion Play Mode screen with Flatscreen, VR or Create a Profile, and Cancel options based on the game status. Removes profile creation from the open case."
                }
 }
