@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.6",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.6/Vantage-Setup.exe",
-                   "sha256":  "ec1a57e61ae68175a8574e3ca611531ce32f581f08dee69011e9980288a3e9e0",
-                   "notes":  "Adds the bundled Vantage XR Host and a real OpenXR runtime/headset connection test in Components. Virtual-screen rendering is the next Theater milestone."
+                   "version":  "0.2.7",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.7/Vantage-Setup.exe",
+                   "sha256":  "071db2d918b6ef663ef2ddc2bf0ad3e7503ad4726d3cb53b62d9722957ebb436",
+                   "notes":  "Fixes frozen update/offline startup and failed game scans caused by inaccessible Steam drives. Scanning is now a restartable background task and inaccessible libraries are skipped safely."
                }
 }
