@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.12",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.12/Vantage-Setup.exe",
-                   "sha256":  "d1eb6d56fbdbb0434fbb62221b346e461a91da474294bc9bcd0254edfb02dbb7",
-                   "notes":  "Refines Vantage with solid charcoal surfaces, restrained status color, reduced glow and gradients, and no decorative glass or space effects while preserving rounded cards and the physical game-case design."
+                   "version":  "0.2.13",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.13/Vantage-Setup.exe",
+                   "sha256":  "34c63b3f1f3409bcf04550369f5fcde2035c9c4e7021b3827d2ca5074759c5b3",
+                   "notes":  "Fixes inconsistent update discovery by reading the current committed manifest through GitHub repository API instead of the intermittently stale raw-file CDN."
                }
 }
