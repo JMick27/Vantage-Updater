@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.24",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.24/Vantage-Setup.exe",
-                   "sha256":  "2dd58ea2c71391d999397c742a6b960c7cd56d265e7fe6f8e21815e821a9bc2c",
-                   "notes":  "Improves automatic UEVR injection reliability by waiting for the Unreal shipping process to remain stable through startup handoffs before starting elevated UEVR. Adds clearer waiting, elevation, injection, confirmation, and timeout diagnostics."
+                   "version":  "0.2.25",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.25/Vantage-Setup.exe",
+                   "sha256":  "1e5aa59ed2ab1d22c32df32cc61dc7370d54926f1146b778fe8e0a020f9b420d",
+                   "notes":  "Adds real Gemini-powered Profile Lab conversations with sanitized game/profile context, validated issue categories, and bounded next actions. Improves Steam launch wording and shows distinct game startup, stability, administrator approval, injection, and confirmation states."
                }
 }
