@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.13",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.13/Vantage-Setup.exe",
-                   "sha256":  "34c63b3f1f3409bcf04550369f5fcde2035c9c4e7021b3827d2ca5074759c5b3",
-                   "notes":  "Fixes inconsistent update discovery by reading the current committed manifest through GitHub repository API instead of the intermittently stale raw-file CDN."
+                   "version":  "0.2.14",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.14/Vantage-Setup.exe",
+                   "sha256":  "324d2b08a729ea88eeee073eecaec5d26d5cb9982531916be5ab36c25bc4b5d0",
+                   "notes":  "Fixes a confirmed Vantage.exe not-responding hang by moving Steam metadata, native-VR detection, engine analysis, and profile refresh into staged background enrichment with short bridge polling."
                }
 }
