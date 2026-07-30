@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.11",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.11/Vantage-Setup.exe",
-                   "sha256":  "0f5086b23f4b01329f9a8f177635159036274977ab22eecb6e4f7081897f109c",
-                   "notes":  "Steam games explicitly marked VR Support, VR Supported, or VR Only now become VR Ready without requiring a Vantage conversion profile. Native VR capability is cached for immediate status on later launches."
+                   "version":  "0.2.12",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.12/Vantage-Setup.exe",
+                   "sha256":  "d1eb6d56fbdbb0434fbb62221b346e461a91da474294bc9bcd0254edfb02dbb7",
+                   "notes":  "Refines Vantage with solid charcoal surfaces, restrained status color, reduced glow and gradients, and no decorative glass or space effects while preserving rounded cards and the physical game-case design."
                }
 }
