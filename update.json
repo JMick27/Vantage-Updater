@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.8",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.8/Vantage-Setup.exe",
-                   "sha256":  "e91b8c87a8dc93621eb8b040bd5a67b7fdd746cd4073a3b2cd03b88bc666620b",
-                   "notes":  "Filters Xbox packages explicitly labeled as DLC so collection components such as Halo: Combat Evolved DLC are no longer shown as standalone games."
+                   "version":  "0.2.9",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.9/Vantage-Setup.exe",
+                   "sha256":  "2d395476833a81eeee701edd5c941a11cdf84ab3623b4c1f2c9b2430f7f7ae73",
+                   "notes":  "Fixes unreliable startup update checks and a native crash when continuing offline. Update discovery now contacts GitHub directly, and library/VR startup work waits until the update screen is dismissed. Includes Xbox DLC-package filtering."
                }
 }
