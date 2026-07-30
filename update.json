@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.25",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.25/Vantage-Setup.exe",
-                   "sha256":  "1e5aa59ed2ab1d22c32df32cc61dc7370d54926f1146b778fe8e0a020f9b420d",
-                   "notes":  "Adds real Gemini-powered Profile Lab conversations with sanitized game/profile context, validated issue categories, and bounded next actions. Improves Steam launch wording and shows distinct game startup, stability, administrator approval, injection, and confirmation states."
+                   "version":  "0.2.26",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.26/Vantage-Setup.exe",
+                   "sha256":  "51bf515d159b567774fd90a02a9b59d57bbbf472a0176b966a3b1c7dba336e39",
+                   "notes":  "Adds the first AI-authored profile editing workflow. Gemini may propose only four whitelisted UEVR settings and validated values; Vantage shows and checksums the proposal, then applies it only through an explicit immutable repair revision with rollback preserved."
                }
 }
