@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.17",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.17/Vantage-Setup.exe",
-                   "sha256":  "2afa2c769856f7515069da67dfca716d4eefe4582e2f6fe4803c5ae482db5a78",
-                   "notes":  "Fixes Xbox Game Bar recording crashes by pinning the stable Windows bridge and pausing background headset polling while capture overlays own focus."
+                   "version":  "0.2.18",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.18/Vantage-Setup.exe",
+                   "sha256":  "501b54d165322b48c787d01d4500a1b564f3e907792aaaebdb6f9aef33cc1e6a",
+                   "notes":  "Fixes incorrect Steam titles and prevents usernames from damaged app manifests appearing as game names. Official Steam titles now replace safe temporary placeholders asynchronously."
                }
 }
