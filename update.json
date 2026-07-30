@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.9",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.9/Vantage-Setup.exe",
-                   "sha256":  "2d395476833a81eeee701edd5c941a11cdf84ab3623b4c1f2c9b2430f7f7ae73",
-                   "notes":  "Fixes unreliable startup update checks and a native crash when continuing offline. Update discovery now contacts GitHub directly, and library/VR startup work waits until the update screen is dismissed. Includes Xbox DLC-package filtering."
+                   "version":  "0.2.10",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.10/Vantage-Setup.exe",
+                   "sha256":  "aaf21292b25c4a5a4020815da0fb25eba8695fef8e805f3a918b9412550db4ae",
+                   "notes":  "The featured library banner now cycles through randomly shuffled installed games and accurately displays the live compatibility status for each game."
                }
 }
