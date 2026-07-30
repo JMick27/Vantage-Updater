@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.7",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.7/Vantage-Setup.exe",
-                   "sha256":  "071db2d918b6ef663ef2ddc2bf0ad3e7503ad4726d3cb53b62d9722957ebb436",
-                   "notes":  "Fixes frozen update/offline startup and failed game scans caused by inaccessible Steam drives. Scanning is now a restartable background task and inaccessible libraries are skipped safely."
+                   "version":  "0.2.8",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.8/Vantage-Setup.exe",
+                   "sha256":  "e91b8c87a8dc93621eb8b040bd5a67b7fdd746cd4073a3b2cd03b88bc666620b",
+                   "notes":  "Filters Xbox packages explicitly labeled as DLC so collection components such as Halo: Combat Evolved DLC are no longer shown as standalone games."
                }
 }
