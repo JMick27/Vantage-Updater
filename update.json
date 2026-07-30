@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.22",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.22/Vantage-Setup.exe",
-                   "sha256":  "0130a0f53f2ae8b99628a0cd1cec5eb9ff0fa4c00f9b5d0fc2cfa11fcca62add",
-                   "notes":  "Fixes UEVR launch: forces OpenXR, launches the game first, waits for the real shipping executable, requests administrator approval, and reports attach failures accurately."
+                   "version":  "0.2.23",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.23/Vantage-Setup.exe",
+                   "sha256":  "19c79ab51cc7b146ef638a9f7ed2e20d34c9b927f2fdbb2e78edda56b292f247",
+                   "notes":  "Requires a fresh UEVR game log before confirming injection, records durable launch diagnostics, and adds an elevated OpenXR attach retry when a game remains flatscreen."
                }
 }
