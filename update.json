@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.20",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.20/Vantage-Setup.exe",
-                   "sha256":  "dbcb595c9e6de92346678b3b60ce00ad8857e981e114b16cb186e71a64654687",
-                   "notes":  "Adds a dedicated per-game Profile Lab chat after the first VR attempt. Feedback stays tied to the exact profile version and leads into configuration capture and validation."
+                   "version":  "0.2.21",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.21/Vantage-Setup.exe",
+                   "sha256":  "a627b661b1de66c78e3272bf39f6bb9d781b1788ae0552eaa0643ce468e510f6",
+                   "notes":  "Adds the first real feedback-to-repair loop. Stereo feedback creates a bounded UEVR rendering revision, preserves rollback, and requires another headset test."
                }
 }
