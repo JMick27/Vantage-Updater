@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.33",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.33/Vantage-Setup.exe",
-                   "sha256":  "89b3f37750471494c2ba067fa8685ec645cb5e6c699b005dd516e4020adcd134",
-                   "notes":  "Fixes UEVR rejecting the input script state output. Vantage now uses UEVR\u0027s permitted per-game data directory and monitors the matching controller-state file. Existing profiles are corrected automatically on launch."
+                   "version":  "0.2.34",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.34/Vantage-Setup.exe",
+                   "sha256":  "4033fe43340585147b1c765af3584399f11c0adc1194fd2b5a7cc11f3c26c73c",
+                   "notes":  "Adds the real checklist-style Vantage Mod Builder and declarative Mod v1 packages with AI planning, validation, Defender scanning, local installation, and rendering/camera/input/UI/cutscene/performance adapter documents. Includes the corrected UEVR controller-state path."
                }
 }
