@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.38",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.38/Vantage-Setup.exe",
-                   "sha256":  "a06782d72c39ba6d659a7aff1a63fef5651c71c04478c6422565eea8b8082005",
-                   "notes":  "Fixes mod creation stopping after generation when Microsoft Defender is disabled. Vantage identifies that state and allows only its strictly validated, declarative, non-native package to continue as an unvalidated local test copy. Threat detections and ambiguous scanner failures remain blocked."
+                   "version":  "0.2.39",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.39/Vantage-Setup.exe",
+                   "sha256":  "3a61b1f64ebd5f9438e06075c8916f35581e51835ccfedda36d18ad3288bd2fd",
+                   "notes":  "Adds the real Vantage input bridge for keyboard-only games. The Vantage-owned plugin reads UEVR emulated controller state and feeds the guarded WASD/mouse adapter. Live status prevents AI from claiming a control fix before input is observed."
                }
 }
