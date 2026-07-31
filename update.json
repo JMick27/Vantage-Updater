@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.37",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.37/Vantage-Setup.exe",
-                   "sha256":  "c86d3fc498198be08ccee30593f4bdecece0c54d34d1ea70545de07fb5030186",
-                   "notes":  "Local mod saves now safely replace the previous local save for that game. The new generated mod is copied before the older local copy is removed; published profiles remain untouched and local saves remain unvalidated."
+                   "version":  "0.2.38",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.38/Vantage-Setup.exe",
+                   "sha256":  "a06782d72c39ba6d659a7aff1a63fef5651c71c04478c6422565eea8b8082005",
+                   "notes":  "Fixes mod creation stopping after generation when Microsoft Defender is disabled. Vantage identifies that state and allows only its strictly validated, declarative, non-native package to continue as an unvalidated local test copy. Threat detections and ambiguous scanner failures remain blocked."
                }
 }
