@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.32",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.32/Vantage-Setup.exe",
-                   "sha256":  "d08047e92098821034cf17acd430748fd6216735b8222107317cc6faf858c8a7",
-                   "notes":  "Actually activates the guarded controller-to-keyboard/mouse adapter in new profiles, automatically migrates existing drafts through a new immutable revision, and fixes the 64-bit foreground-game check that could suppress every input."
+                   "version":  "0.2.33",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.33/Vantage-Setup.exe",
+                   "sha256":  "89b3f37750471494c2ba067fa8685ec645cb5e6c699b005dd516e4020adcd134",
+                   "notes":  "Fixes UEVR rejecting the input script state output. Vantage now uses UEVR\u0027s permitted per-game data directory and monitors the matching controller-state file. Existing profiles are corrected automatically on launch."
                }
 }
