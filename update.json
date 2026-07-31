@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.40",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.40/Vantage-Setup.exe",
-                   "sha256":  "94a434c80749e148c4bffabbe92e7cc56ce8ce7657b1e50fc3f2aa6ddcc7cb0e",
-                   "notes":  "Adds Yes and No controls below actionable AI repair proposals and accepts typed yes/no decisions. Yes creates one immutable untested revision; No persists rejection and prevents later application."
+                   "version":  "0.2.41",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.41/Vantage-Setup.exe",
+                   "sha256":  "57b3998f42078074496172a2b307d3243caaeb329be82ce3be749de88e4e4b26",
+                   "notes":  "Introduces Vantage Runtime v1 with a strict versioned input protocol, safe malformed/stale input handling, and live Profile Lab diagnostics for controller data and runtime compatibility. This foundation does not falsely claim that injection alone provides working controls."
                }
 }
