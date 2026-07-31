@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.31",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.31/Vantage-Setup.exe",
-                   "sha256":  "78a8bf261b60f509179f72fca8682c13bfe6d82bccf0a57e7a1e4fc1d61879ad",
-                   "notes":  "Fixes instant VR launch failure when Windows rejects direct Steam launching with elevation error 740. Vantage now falls back to the registered Steam URI and continues waiting for the game before UEVR attach."
+                   "version":  "0.2.32",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.32/Vantage-Setup.exe",
+                   "sha256":  "d08047e92098821034cf17acd430748fd6216735b8222107317cc6faf858c8a7",
+                   "notes":  "Actually activates the guarded controller-to-keyboard/mouse adapter in new profiles, automatically migrates existing drafts through a new immutable revision, and fixes the 64-bit foreground-game check that could suppress every input."
                }
 }
