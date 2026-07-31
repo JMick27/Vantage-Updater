@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.27",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.27/Vantage-Setup.exe",
-                   "sha256":  "383079da2cf37f0a7d47f3bdd1b622c3ab0be1a416e16a4b7e4f95bd1cec1635",
-                   "notes":  "Adds AI-authored UEVR controller repairs for games with controller support: controller routing, right/left/head/two-handed aiming, movement orientation, snap turning, and room-scale settings. Generic hands and point-and-click UI remain pending the Vantage runtime layer."
+                   "version":  "0.2.28",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.28/Vantage-Setup.exe",
+                   "sha256":  "e51625f09f81be670cf6e3e1ae3aa7c41ee4ac39d7e1ac63c85090150155048b",
+                   "notes":  "Improves Steam launching with direct -applaunch and prevents manual UEVR injection from being falsely credited as Vantage automatic injection. Automatic confirmation now requires the exact elevated UEVR process spawned by Vantage plus a fresh game log."
                }
 }
