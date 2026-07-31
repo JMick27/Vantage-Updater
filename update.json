@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.29",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.29/Vantage-Setup.exe",
-                   "sha256":  "92f03f2bea12f6e3968efad50e983697ec734dc00b76c943acc022cede436296",
-                   "notes":  "Adds foreground-guarded motion-controller keyboard/mouse input and stick-driven mouse UI for Profile Lab repairs. Left stick maps to WASD, right stick to mouse movement, triggers to clicks, and common buttons to keyboard actions. Generic visible hands and tracked ray pointing remain future work."
+                   "version":  "0.2.30",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.30/Vantage-Setup.exe",
+                   "sha256":  "4f915dce1974016eaddabd1311dacc3587c9723fe1714f85cb877fcf8c38860e",
+                   "notes":  "Adds foreground-guarded motion-controller keyboard/mouse input and stick-driven mouse UI through immutable Profile Lab repairs. The assistant now understands the feature. Generic visible hands and tracked ray pointing remain future work."
                }
 }
