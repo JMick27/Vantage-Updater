@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.35",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.35/Vantage-Setup.exe",
-                   "sha256":  "0d2e39feacb64cf64c4e31093bbe2aa865fcb3a487b327a96d4958eced1834af",
-                   "notes":  "Adds a gated Publish Mod button to Profile Lab. Passing tested mods are revalidated, scanned, and submitted to Vantage-Mods as draft review pull requests without touching protected main or claiming validation."
+                   "version":  "0.2.36",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.36/Vantage-Setup.exe",
+                   "sha256":  "2bb46310c80b4d187b5f02a607ebe089a189bff2619d5dffa3451a9f61d7f29b",
+                   "notes":  "Adds a manual eight-item Publish Mod checklist, unvalidated local mod saves without headset-test requirements, library detection of local saves, local-versus-published conflict selection, remembered preferences, and local-save deletion."
                }
 }
