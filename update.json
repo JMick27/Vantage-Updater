@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.36",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.36/Vantage-Setup.exe",
-                   "sha256":  "2bb46310c80b4d187b5f02a607ebe089a189bff2619d5dffa3451a9f61d7f29b",
-                   "notes":  "Adds a manual eight-item Publish Mod checklist, unvalidated local mod saves without headset-test requirements, library detection of local saves, local-versus-published conflict selection, remembered preferences, and local-save deletion."
+                   "version":  "0.2.37",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.37/Vantage-Setup.exe",
+                   "sha256":  "c86d3fc498198be08ccee30593f4bdecece0c54d34d1ea70545de07fb5030186",
+                   "notes":  "Local mod saves now safely replace the previous local save for that game. The new generated mod is copied before the older local copy is removed; published profiles remain untouched and local saves remain unvalidated."
                }
 }
