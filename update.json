@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.28",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.28/Vantage-Setup.exe",
-                   "sha256":  "e51625f09f81be670cf6e3e1ae3aa7c41ee4ac39d7e1ac63c85090150155048b",
-                   "notes":  "Improves Steam launching with direct -applaunch and prevents manual UEVR injection from being falsely credited as Vantage automatic injection. Automatic confirmation now requires the exact elevated UEVR process spawned by Vantage plus a fresh game log."
+                   "version":  "0.2.29",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.29/Vantage-Setup.exe",
+                   "sha256":  "92f03f2bea12f6e3968efad50e983697ec734dc00b76c943acc022cede436296",
+                   "notes":  "Adds foreground-guarded motion-controller keyboard/mouse input and stick-driven mouse UI for Profile Lab repairs. Left stick maps to WASD, right stick to mouse movement, triggers to clicks, and common buttons to keyboard actions. Generic visible hands and tracked ray pointing remain future work."
                }
 }
