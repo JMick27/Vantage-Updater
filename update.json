@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.41",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.41/Vantage-Setup.exe",
-                   "sha256":  "57b3998f42078074496172a2b307d3243caaeb329be82ce3be749de88e4e4b26",
-                   "notes":  "Introduces Vantage Runtime v1 with a strict versioned input protocol, safe malformed/stale input handling, and live Profile Lab diagnostics for controller data and runtime compatibility. This foundation does not falsely claim that injection alone provides working controls."
+                   "version":  "0.2.42",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.42/Vantage-Setup.exe",
+                   "sha256":  "aace84e3630db64b30a5238ccbea06a2cad9d00c73cb25558bd4791fec725eec",
+                   "notes":  "Adds Vantage Runtime 1.1/protocol v2 with real OpenXR-local HMD and left/right grip/aim pose telemetry, strict spatial validation, tracked-hand diagnostics, and declared per-game fallback bindings. Visible hands and direct game interaction are not claimed yet."
                }
 }
