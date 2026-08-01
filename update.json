@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.42",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.42/Vantage-Setup.exe",
-                   "sha256":  "aace84e3630db64b30a5238ccbea06a2cad9d00c73cb25558bd4791fec725eec",
-                   "notes":  "Adds Vantage Runtime 1.1/protocol v2 with real OpenXR-local HMD and left/right grip/aim pose telemetry, strict spatial validation, tracked-hand diagnostics, and declared per-game fallback bindings. Visible hands and direct game interaction are not claimed yet."
+                   "version":  "0.2.43",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.43/Vantage-Setup.exe",
+                   "sha256":  "5002ad4b0a9e993b451f92d3c999c24680bb017a3e96967feda87231c7ba41ae",
+                   "notes":  "Adds Vantage Runtime 1.2/protocol v3 with tracked controller UI rays, right-aim cursor and trigger click, the V-marked generic hand contract, and conservative camera/cutscene policies. Visual hand rendering remains disabled pending headset validation."
                }
 }
