@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.44",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.44/Vantage-Setup.exe",
-                   "sha256":  "d166727aa875dc694925048bdc249af78a8b8d3acc75afd1603906a3dc5ebc82",
-                   "notes":  "Fixes dead VR controls when controller poses are tracked but UEVR XInput stays at packet 0. Runtime 1.3 reads OpenXR sticks, triggers, grips, and face actions directly through the public UEVR VR action API."
+                   "version":  "0.2.45",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.45/Vantage-Setup.exe",
+                   "sha256":  "a0efbbc21e556ae1846ffd2d3d74c9094cf706b307e7319f0be45408459008a2",
+                   "notes":  "Adds the first unvalidated generic hand renderer using game-native Unreal primitives, motion-controller attachment, and the raised Vantage V across the knuckle line. Fails closed when standard engine meshes are unavailable."
                }
 }
