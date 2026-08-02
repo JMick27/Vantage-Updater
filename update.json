@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.48",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.48/Vantage-Setup.exe",
-                   "sha256":  "9b1fa2f44eeee450b755e4c59ab7a995d7117bb296aeefd1d1ad10b5c89b3f73",
-                   "notes":  "Adds the Automatic VR Conversion foundation: Steam/Xbox executable fingerprinting, anti-cheat and protected-install safety blocks, version-bound runtime package contracts, honest pending-capability messaging, and a separate Manual Injection route."
+                   "version":  "0.2.49",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.49/Vantage-Setup.exe",
+                   "sha256":  "f62a97305b9d7f0858af151829d35bccf4c3d240fec1860db4a3060e668ce5d7",
+                   "notes":  "Adds Vantage Loader ABI v1 with a safe native self-test, conversion-manifest integrity verification, managed-path containment, exact game-version revalidation, and fresh anti-cheat checks. Game-process loading and VR hooks remain in development."
                }
 }
