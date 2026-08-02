@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.47",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.47/Vantage-Setup.exe",
-                   "sha256":  "81e1ad384734bf4c98177fe8600a29f7ccf534981d43bdbf4ce839e82e9c2f28",
-                   "notes":  "Adds Vantage\u0027s standalone UEVR-free OpenXR stereo test scene, a strict recommended Full Mod Creation path, an advanced Injection path, and automatic Components guidance when UEVR or Rai Pal/UUVR is missing."
+                   "version":  "0.2.48",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.48/Vantage-Setup.exe",
+                   "sha256":  "9b1fa2f44eeee450b755e4c59ab7a995d7117bb296aeefd1d1ad10b5c89b3f73",
+                   "notes":  "Adds the Automatic VR Conversion foundation: Steam/Xbox executable fingerprinting, anti-cheat and protected-install safety blocks, version-bound runtime package contracts, honest pending-capability messaging, and a separate Manual Injection route."
                }
 }
