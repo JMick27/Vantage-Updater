@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.53",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.53/Vantage-Setup.exe",
-                   "sha256":  "051ea0b54a509a7e2956527e6302b9a8762632d887d606d9519b74dec0329cfe",
-                   "notes":  "Adds runtime-acknowledged live profile revisions for AI feedback, bounded value validation, restart-required classification, and preservation of the Profile Lab approval gate."
+                   "version":  "0.2.54",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.54/Vantage-Setup.exe",
+                   "sha256":  "d05372b9ff3a27b4636815cb487dce03f4baeb43f37cc1fa1e5850ac37690161",
+                   "notes":  "Adds the first exact-build Unreal renderer pilot: verified Beer Factory UE5.1 launch, real in-game D3D11 Present hook confirmation, live AI profile acknowledgements, and honest flatscreen-until-OpenXR status."
                }
 }
