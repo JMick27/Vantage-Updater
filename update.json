@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.52",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.52/Vantage-Setup.exe",
-                   "sha256":  "3bb2cf60e00db59e6490c12166a2b5bb729e5469d79661fd64e66647279dd0a6",
-                   "notes":  "Fixes the visual XR test silently exiting by using the renderer backend actually compiled into the binary, adds a live-session startup gate, and reports early OpenXR failure accurately."
+                   "version":  "0.2.53",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.53/Vantage-Setup.exe",
+                   "sha256":  "051ea0b54a509a7e2956527e6302b9a8762632d887d606d9519b74dec0329cfe",
+                   "notes":  "Adds runtime-acknowledged live profile revisions for AI feedback, bounded value validation, restart-required classification, and preservation of the Profile Lab approval gate."
                }
 }
