@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.50",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.50/Vantage-Setup.exe",
-                   "sha256":  "b3b0869b67fb3227d5cb046431c427f3f886e1fecc2bfcf2ee3f71b94a8d3908",
-                   "notes":  "Adds a tightly restricted Vantage-owned cross-process loading test with a real runtime-loaded handshake, automatic cleanup, no external target or DLL inputs, and a nonvisual Components test."
+                   "version":  "0.2.51",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.51/Vantage-Setup.exe",
+                   "sha256":  "7c6c8c218072051499e0baf0ace009894a5bbcc38f88b2f37f3a6550e8d4b92e",
+                   "notes":  "Adds a visually testable loaded-runtime pipeline: the runtime enters the Vantage-owned target, starts the native D3D11 OpenXR stereo worker, and supports clean session shutdown from Components."
                }
 }
