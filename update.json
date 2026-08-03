@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.55",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.55/Vantage-Setup.exe",
-                   "sha256":  "136d297f3b709391fb42154bec25f8550aa1eab485adff38970a166fd931fe3d",
-                   "notes":  "Adds the first native Unreal game-frame-to-OpenXR bridge: real D3D11 backbuffer sharing, a D3D11 headset presenter, frame-level success acknowledgement, and honest headset-unavailable diagnostics."
+                   "version":  "0.2.56",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.56/Vantage-Setup.exe",
+                   "sha256":  "2d5d7a5cc3cd09c8c3cc8f08266cc704d7bd5bb00e62afd6d25d8a4dd8582e3f",
+                   "notes":  "Replaces the head-locked game image with a world-anchored 16:9 OpenXR screen using real per-eye view/projection transforms, while preserving the native D3D11 game-frame bridge."
                }
 }
