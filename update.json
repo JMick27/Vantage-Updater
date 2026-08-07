@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.61",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.61/Vantage-Setup.exe",
-                   "sha256":  "3a26b9ea9159b1dab7063ebc0c46ea944c00b45e47139e53b186b6e05328de66",
-                   "notes":  "Gameplay head look: after explicit live-gameplay confirmation, OpenXR headset rotation drives Beer Factory mouse look while the game is focused. Retains real Unreal left/right stereo; positional tracking, hands, and controls are not included yet."
+                   "version":  "0.2.62",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.62/Vantage-Setup.exe",
+                   "sha256":  "2091e5c98def1f5816a8a2a471654c8eaa3afbc575de73ab1b0e17cabf0fa555",
+                   "notes":  "Face-anchored gameplay: menus stay on the safe theater screen; enabling gameplay head look attaches the real Unreal stereo viewport to the face while headset rotation drives the focused game camera."
                }
 }
