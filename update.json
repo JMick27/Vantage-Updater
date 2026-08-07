@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "da5d0a4e888e3344a7b2a01218624513464ed324ba77567c22301593baea2839",
-                   "version":  "0.3.7",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.7/Vantage-Setup.exe",
-                   "notes":  "Unreal comfort update: real Action=F discovery, left-grip interactable reveal, steadier fine aiming, and experimental edge-HUD stereo depth."
+                   "sha256":  "971158edbb21e4cec9f6f5762dff83a6691ac512dfc95aabf81d92219f7c7d21",
+                   "version":  "0.3.8",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.8/Vantage-Setup.exe",
+                   "notes":  "Profile-driven Unreal foundation: exact-build capability validation for separate floating UI and bounded interaction-trace expansion."
                }
 }
