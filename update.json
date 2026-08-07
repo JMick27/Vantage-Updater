@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.59",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.59/Vantage-Setup.exe",
-                   "sha256":  "660d74bd4c8e22570be335df1da735523e9beb5dca6f26e5e2e765dc9e839304",
-                   "notes":  "Comfort rollback: disables the eye-straining depth-shift experiment and retains the stable world-anchored OpenXR screen while true per-eye Unreal camera rendering is developed."
+                   "version":  "0.2.60",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.60/Vantage-Setup.exe",
+                   "sha256":  "42d7c1e1b0e25acb15337aba1044cb71af7d177e83b9baca017bb14db00b1504",
+                   "notes":  "Native Unreal stereo pilot: uses Unreal\u0027s own left/right camera rendering and routes each view to the matching OpenXR eye on the safe world-anchored surface. Headset-driven gameplay camera, hands, and controls are not included yet."
                }
 }
