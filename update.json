@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.3.3",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.3/Vantage-Setup.exe",
-                   "sha256":  "6e8eea916dcfa4d8e02c1f6b3466e6e1259547f282852f5da7b7701e9fd9c80c",
-                   "notes":  "Custom-cursor menu fix: Beer Factory stays in floating menu/pointer mode until actual WASD or Quest-stick movement begins gameplay. Escape or Quest B restores menu mode."
+                   "version":  "0.3.4",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.4/Vantage-Setup.exe",
+                   "sha256":  "caee50fc353d93d5b31b3613c03baa239f854386b71f494c13c45794ab27c5db",
+                   "notes":  "Updater reliability fix: background installer downloads, real MB/percentage progress, three automatic retries, SHA-256-verified cache reuse, and persistent Retry plus Continue controls."
                }
 }
