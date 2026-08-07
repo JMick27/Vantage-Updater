@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.57",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.57/Vantage-Setup.exe",
-                   "sha256":  "22f78b21f8d322748c07c824486e05bf7617d7c990332a3158898fb0560c9d48",
-                   "notes":  "Fixes false headset-not-detected results by keeping the successful OpenXR frame acknowledgement alive for the full renderer session. Real Quest 3 and Virtual Desktop acceptance passed."
+                   "version":  "0.2.58",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.58/Vantage-Setup.exe",
+                   "sha256":  "a931824e78a71c8f147d3290a16f1bdd3d74b6cc7130231491f9d250182ce3f5",
+                   "notes":  "Adds gameplay-gated experimental depth stereo for the exact Beer Factory pilot, with deferred D3D11 depth capture, OpenXR presenter restart, and new-frame acknowledgement. Menus and loading remain valid flatscreen states."
                }
 }
