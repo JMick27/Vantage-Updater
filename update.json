@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.3.2",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.2/Vantage-Setup.exe",
-                   "sha256":  "63909b9178a90be7e9741ff7de8d31b89ac928f2222b3032a5a1ca1e3cccd0ca",
-                   "notes":  "VR menu pointer pilot: visible tracked controller markers, a right-hand pointer ray and hit marker, and trigger clicking on the verified Beer Factory floating menu. Gameplay HUD extraction remains in development."
+                   "version":  "0.3.3",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.3/Vantage-Setup.exe",
+                   "sha256":  "6e8eea916dcfa4d8e02c1f6b3466e6e1259547f282852f5da7b7701e9fd9c80c",
+                   "notes":  "Custom-cursor menu fix: Beer Factory stays in floating menu/pointer mode until actual WASD or Quest-stick movement begins gameplay. Escape or Quest B restores menu mode."
                }
 }
