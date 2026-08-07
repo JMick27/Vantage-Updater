@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.3.0",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.0/Vantage-Setup.exe",
-                   "sha256":  "6e5bb8859a7771ff97d272d8de6ed33f3a302afafea8be502bc0343e67d313cd",
-                   "notes":  "Spatial Unreal camera pilot: the verified Beer Factory path now receives headset rotation, calibrated lean/crouch position, and headset field of view. Menus and loading remain on the mono floating screen. Experimental exact-build headset test."
+                   "version":  "0.3.1",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.1/Vantage-Setup.exe",
+                   "sha256":  "107a4ff190fcd4236ce5412e35d44b5d9c8a4c268a6fa9cf1ee1b480e2a72c8f",
+                   "notes":  "Headset-test corrections: full-width menus, headset roll, light pose filtering, visible tracked controller markers, no fake grip vibration, and provisional Quest Touch movement/click/jump/back input. World-space game UI remains in development."
                }
 }
