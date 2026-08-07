@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "44894f13be087fba530af5d4d30d92cc59d6f05df0aa3bad231e6b510b9cae2b",
-                   "version":  "0.3.6",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.6/Vantage-Setup.exe",
-                   "notes":  "Unreal interaction pilot: read-only interaction binding discovery, headset-directed world targeting, and right-controller A activation for the exact Beer Factory pilot."
+                   "sha256":  "da5d0a4e888e3344a7b2a01218624513464ed324ba77567c22301593baea2839",
+                   "version":  "0.3.7",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.7/Vantage-Setup.exe",
+                   "notes":  "Unreal comfort update: real Action=F discovery, left-grip interactable reveal, steadier fine aiming, and experimental edge-HUD stereo depth."
                }
 }
