@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.3.4",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.4/Vantage-Setup.exe",
-                   "sha256":  "caee50fc353d93d5b31b3613c03baa239f854386b71f494c13c45794ab27c5db",
-                   "notes":  "Updater reliability fix: background installer downloads, real MB/percentage progress, three automatic retries, SHA-256-verified cache reuse, and persistent Retry plus Continue controls."
+                   "sha256":  "9cda77a2907dfa57cb0b76a73d9c9a8d8b57fed84f3606235b6596816aeede21",
+                   "version":  "0.3.5",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.5/Vantage-Setup.exe",
+                   "notes":  "VR menu pointer fix: native OpenXR aim pose, full-surface hit testing and cursor mapping, plus an always-visible aiming ray."
                }
 }
