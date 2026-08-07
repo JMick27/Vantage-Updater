@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.65",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.65/Vantage-Setup.exe",
-                   "sha256":  "d92fa5d58df7ce5486d43b1d35cc8dd9dba0491c50aecc984261233a94fda317",
-                   "notes":  "Menus and loading now show one identical mono image to both eyes on the floating screen. Only detected gameplay enables distinct Unreal eye views, full-eye presentation, and head look."
+                   "version":  "0.2.66",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.66/Vantage-Setup.exe",
+                   "sha256":  "be032ca73d0f2d90d3e646c83345055a4e16c8f4ea3a8cfdb7c40772e8b37c72",
+                   "notes":  "Direct Unreal camera pilot: OpenXR head rotation now calls the exact validated Unreal yaw and pitch methods for the authorized Beer Factory build. Physical mouse look is suppressed during detected gameplay and restored outside it. Full-turn yaw is fixed."
                }
 }
