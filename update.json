@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.66",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.66/Vantage-Setup.exe",
-                   "sha256":  "be032ca73d0f2d90d3e646c83345055a4e16c8f4ea3a8cfdb7c40772e8b37c72",
-                   "notes":  "Direct Unreal camera pilot: OpenXR head rotation now calls the exact validated Unreal yaw and pitch methods for the authorized Beer Factory build. Physical mouse look is suppressed during detected gameplay and restored outside it. Full-turn yaw is fixed."
+                   "version":  "0.3.0",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.0/Vantage-Setup.exe",
+                   "sha256":  "6e5bb8859a7771ff97d272d8de6ed33f3a302afafea8be502bc0343e67d313cd",
+                   "notes":  "Spatial Unreal camera pilot: the verified Beer Factory path now receives headset rotation, calibrated lean/crouch position, and headset field of view. Menus and loading remain on the mono floating screen. Experimental exact-build headset test."
                }
 }
