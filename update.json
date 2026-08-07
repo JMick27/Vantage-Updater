@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "version":  "0.2.63",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.63/Vantage-Setup.exe",
-                   "sha256":  "24383cc903bc84d5d2f0a358429349b842662cd2c17d316ec615728491eecdf0",
-                   "notes":  "Automatic gameplay detection switches from the menu theater screen to face-anchored head look after a sustained visible-to-hidden cursor transition, with a manual fallback for custom-cursor games."
+                   "version":  "0.2.64",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.2.64/Vantage-Setup.exe",
+                   "sha256":  "4033ab1fc3428a02075ad2454ab7d6d3b1d8f574e0db3437c369a1d2962c7455",
+                   "notes":  "Corrects reversed horizontal head look, fills each OpenXR eye during gameplay to remove the black outline, and keeps menus visible on a larger face-following flat panel."
                }
 }
