@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "3c7a7605675e84588db38513bbd58c753ca3fc1a5770d527bfde295ef30e3ead",
-                   "version":  "0.3.9",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.9/Vantage-Setup.exe",
-                   "notes":  "Experimental floating Unreal HUD: pre-HUD D3D11 scene capture and profile-controlled OpenXR UI comfort panel with explicit bridge confirmation."
+                   "sha256":  "bc580195c39cc42ec138ba597aed47dccae37e90638d748e3fc0e79b382e1007",
+                   "version":  "0.3.10",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.10/Vantage-Setup.exe",
+                   "notes":  "Automatic stereo gameplay detection: no movement required, with sustained mono reversion for menu and loading presentation."
                }
 }
