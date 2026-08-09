@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "a29b0989173e669ccaf61c0cf54fcd52ce8a0eca65a7af21afea6467c270b9c6",
-                   "version":  "0.4.1",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.1/Vantage-Setup.exe",
-                   "notes":  "Adds Unreal compute-composite UI capture and renderer telemetry for reliable HUD isolation."
+                   "sha256":  "448e766fc735a515a6f44b7f08a6d853d984fd25d07a15f38a83aad408d2d8b9",
+                   "version":  "0.4.2",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.2/Vantage-Setup.exe",
+                   "notes":  "Completes D3D11 draw-path coverage for Unreal UI composition, including instanced and indirect rendering."
                }
 }
