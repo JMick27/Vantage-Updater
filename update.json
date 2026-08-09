@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "448e766fc735a515a6f44b7f08a6d853d984fd25d07a15f38a83aad408d2d8b9",
-                   "version":  "0.4.2",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.2/Vantage-Setup.exe",
-                   "notes":  "Completes D3D11 draw-path coverage for Unreal UI composition, including instanced and indirect rendering."
+                   "sha256":  "fa245821f7518752fe40b9d68c9a8ca7d1279a7e0884559647bf9139a90c7427",
+                   "version":  "0.4.3",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.3/Vantage-Setup.exe",
+                   "notes":  "Moves Unreal UI capture to command-list execution for render-thread pipelines whose draws are recorded before Vantage can observe them."
                }
 }
