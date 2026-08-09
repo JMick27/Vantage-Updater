@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "03dc43e13e10ae996fd93e952c90beeca1abf449f46eea3a4161a141e8b9a61e",
-                   "version":  "0.3.12",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.12/Vantage-Setup.exe",
-                   "notes":  "Fixes Unreal HUD separation by accepting the native HDR pre-HUD scene while keeping its shared texture stable."
+                   "sha256":  "5fb0c354bb5844ae25f08f7c47bc1dac967ea7e96d6a3dacc4ac8aac97dc68a3",
+                   "version":  "0.3.13",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.13/Vantage-Setup.exe",
+                   "notes":  "Captures Unreal UI after the final tone-mapped scene composite so the floating HUD no longer includes a duplicate game image."
                }
 }
