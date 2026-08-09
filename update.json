@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "971158edbb21e4cec9f6f5762dff83a6691ac512dfc95aabf81d92219f7c7d21",
-                   "version":  "0.3.8",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.8/Vantage-Setup.exe",
-                   "notes":  "Profile-driven Unreal foundation: exact-build capability validation for separate floating UI and bounded interaction-trace expansion."
+                   "sha256":  "3c7a7605675e84588db38513bbd58c753ca3fc1a5770d527bfde295ef30e3ead",
+                   "version":  "0.3.9",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.9/Vantage-Setup.exe",
+                   "notes":  "Experimental floating Unreal HUD: pre-HUD D3D11 scene capture and profile-controlled OpenXR UI comfort panel with explicit bridge confirmation."
                }
 }
