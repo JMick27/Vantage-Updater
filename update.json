@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "0ae1c1db67ed70f28d9b0f99c0c0adbe551a380e365b88a370270c19fe3d4e18",
-                   "version":  "0.3.11",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.11/Vantage-Setup.exe",
-                   "notes":  "Fixes the stale pre-HUD texture handoff and enables automatic stereo gameplay switching without waiting for movement."
+                   "sha256":  "03dc43e13e10ae996fd93e952c90beeca1abf449f46eea3a4161a141e8b9a61e",
+                   "version":  "0.3.12",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.3.12/Vantage-Setup.exe",
+                   "notes":  "Fixes Unreal HUD separation by accepting the native HDR pre-HUD scene while keeping its shared texture stable."
                }
 }
