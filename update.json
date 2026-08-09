@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "4fec679cdef2148664707a2a48a20f2fd3e705428a9683e945bc664dd6eb01b3",
-                   "version":  "0.4.0",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.0/Vantage-Setup.exe",
-                   "notes":  "Unreal-aware UI composition now follows the game actual final viewport draw instead of falling back to clipped or one-eye HUD rendering."
+                   "sha256":  "a29b0989173e669ccaf61c0cf54fcd52ce8a0eca65a7af21afea6467c270b9c6",
+                   "version":  "0.4.1",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.1/Vantage-Setup.exe",
+                   "notes":  "Adds Unreal compute-composite UI capture and renderer telemetry for reliable HUD isolation."
                }
 }
