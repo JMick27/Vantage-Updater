@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "f6a938bc83bc9b1d99fc6ac7aa796b18677a1c0dbfc7e77f15916f3f2dff2fb2",
-                   "version":  "0.4.7",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.7/Vantage-Setup.exe",
-                   "notes":  "Waits for Unreal to process the nearby-object modifier release before sending the plain interaction action."
+                   "sha256":  "8729bc986eeefff86b343f219439a1c2c30185be4d56678b8d3eb14be9063efb",
+                   "version":  "0.4.8",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.8/Vantage-Setup.exe",
+                   "notes":  "Adds the exact-build controller-target discovery pilot: tracked controller aim poses and trigger state now reach the native Unreal runtime for safe interaction-function discovery without camera snapping."
                }
 }
