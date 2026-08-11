@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "fa245821f7518752fe40b9d68c9a8ca7d1279a7e0884559647bf9139a90c7427",
-                   "version":  "0.4.3",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.3/Vantage-Setup.exe",
-                   "notes":  "Moves Unreal UI capture to command-list execution for render-thread pipelines whose draws are recorded before Vantage can observe them."
+                   "sha256":  "715aaf972ade33933f4978c7c94fc9a87ef445e5cad5b5c61f9d0363e8f7a09e",
+                   "version":  "0.4.4",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.4/Vantage-Setup.exe",
+                   "notes":  "Profile Lab now opens for native Vantage Runtime tests and saves sanitized AI feedback against the exact generated package."
                }
 }
