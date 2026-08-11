@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "715aaf972ade33933f4978c7c94fc9a87ef445e5cad5b5c61f9d0363e8f7a09e",
-                   "version":  "0.4.4",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.4/Vantage-Setup.exe",
-                   "notes":  "Profile Lab now opens for native Vantage Runtime tests and saves sanitized AI feedback against the exact generated package."
+                   "sha256":  "2fdef7e3875d32e214a536526143ec0b691e6feb36b2d10220eb28ad1beed331",
+                   "version":  "0.4.5",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.5/Vantage-Setup.exe",
+                   "notes":  "Adds guarded hand-reach interaction using the game discovered Interact binding and a tracked-controller proximity gate."
                }
 }
