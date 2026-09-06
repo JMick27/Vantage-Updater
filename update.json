@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "8729bc986eeefff86b343f219439a1c2c30185be4d56678b8d3eb14be9063efb",
-                   "version":  "0.4.8",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.4.8/Vantage-Setup.exe",
-                   "notes":  "Adds the exact-build controller-target discovery pilot: tracked controller aim poses and trigger state now reach the native Unreal runtime for safe interaction-function discovery without camera snapping."
+                   "sha256":  "e67c1d70b51880ab0160a55b59ba2a5b159fc143b554741b7c17b60ef8fccfbf",
+                   "version":  "0.5.0",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.0/Vantage-Setup.exe",
+                   "notes":  "Adds Native AI Mod as a third creation option with library-time eligibility checks, clear disabled reasons, and versioned plugin workspaces for supported SDK, Unreal source-project, and installed Unity BepInEx routes."
                }
 }
