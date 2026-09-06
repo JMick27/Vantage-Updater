@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "e67c1d70b51880ab0160a55b59ba2a5b159fc143b554741b7c17b60ef8fccfbf",
-                   "version":  "0.5.0",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.0/Vantage-Setup.exe",
-                   "notes":  "Adds Native AI Mod as a third creation option with library-time eligibility checks, clear disabled reasons, and versioned plugin workspaces for supported SDK, Unreal source-project, and installed Unity BepInEx routes."
+                   "sha256":  "725ea9e4dc6e9e54fa428d11c342e72569307a39867a29073ccba38eb2f1407e",
+                   "version":  "0.5.1",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.1/Vantage-Setup.exe",
+                   "notes":  "Adds a secure remote engine-runtime catalog and on-demand GitHub package installation for Native AI Mods, including SHA-256, archive safety, compatibility, entry-point, and Defender gates."
                }
 }
