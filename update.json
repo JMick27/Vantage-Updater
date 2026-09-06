@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "725ea9e4dc6e9e54fa428d11c342e72569307a39867a29073ccba38eb2f1407e",
-                   "version":  "0.5.1",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.1/Vantage-Setup.exe",
-                   "notes":  "Adds a secure remote engine-runtime catalog and on-demand GitHub package installation for Native AI Mods, including SHA-256, archive safety, compatibility, entry-point, and Defender gates."
+                   "sha256":  "19afd6cdd4d1ab8ce02cdf48acd25c84a25a7ceb0c6295d7d504e7b515afe077",
+                   "version":  "0.5.2",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.2/Vantage-Setup.exe",
+                   "notes":  "Adds the testable remote Unreal runtime handoff: eligible packaged Unreal games download, verify, Defender-scan, cache, and create a version-bound Native AI Mod workspace against the published foundation."
                }
 }
