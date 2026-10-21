@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "19afd6cdd4d1ab8ce02cdf48acd25c84a25a7ceb0c6295d7d504e7b515afe077",
-                   "version":  "0.5.2",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.2/Vantage-Setup.exe",
-                   "notes":  "Adds the testable remote Unreal runtime handoff: eligible packaged Unreal games download, verify, Defender-scan, cache, and create a version-bound Native AI Mod workspace against the published foundation."
+                   "sha256":  "d378a7d7d7cffd3283d48a060e009709d7ee8c0d6f6a42de82ecb34da7d2d27b",
+                   "version":  "0.5.3",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.3/Vantage-Setup.exe",
+                   "notes":  "Adds bounded AI native-module planning for compatible Unreal games, generating a local inspectable template from reviewed capabilities while preserving exact-build, scanning, and testing gates."
                }
 }
