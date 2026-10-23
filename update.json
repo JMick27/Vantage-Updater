@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "71ff07a886fa27e231d45c8e4b7dbc8c6e137ebdb64d5c18a280a2290c4432ad",
-                   "version":  "0.5.7",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.7/Vantage-Setup.exe",
-                   "notes":  "Profile Lab now shows a clear feedback summary: what Vantage understood, affected areas, and safe next steps before any Yes/No proposal."
+                   "sha256":  "0da2c90284500d70c7c85ee3157a1ef710c82b0f970da2c072ec88770793bb3e",
+                   "version":  "0.5.8",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.8/Vantage-Setup.exe",
+                   "notes":  "Components cleanup: adds Microsoft C++ Build Tools for Native AI Mod test builds and removes internal diagnostics from the player-facing page."
                }
 }
