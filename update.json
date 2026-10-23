@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "channelState":  "active",
     "latest":  {
-                   "sha256":  "71f811e9275556c640b199b470cfbe6fa44cd26795e6698c942ab8871fdbf2b0",
-                   "version":  "0.5.5",
-                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.5/Vantage-Setup.exe",
-                   "notes":  "Native AI Mod now displays requested and deferred capabilities, then verifies the Vantage-created local workspace before a future compilation/runtime stage."
+                   "sha256":  "6492419ee5b37ee16a0bec289e39ae73be91f76e961c89a762a639cda1a53499",
+                   "version":  "0.5.6",
+                   "downloadUrl":  "https://github.com/JMick27/Vantage-Updater/releases/download/v0.5.6/Vantage-Setup.exe",
+                   "notes":  "Adds an expandable AI work log to Native AI Mod creation, showing the plan, deferred work, and safety boundaries in plain language."
                }
 }
